@@ -1,4 +1,4 @@
 # Camagru
-In this project I want to create a small web application allowing you to make basic photo and video editing using your webcam and some predefined images.
+In this project for 42 and I want to create a small web application allowing you to make basic photo and video editing using your webcam and some predefined images.
 ## License
 This project is licensed under the LGPLv3 License - see the [LICENSE](https://github.com/IT-Krivoshey/Camagru/blob/main/LICENSE) file for details.
